@@ -1,0 +1,41 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10vh;
+}
+#main{
+border: .5px solid black;
+padding: 20px;
+text-align: center;
+box-shadow: 10px 15px 20px rgb(0, 0, 0), inset 10px 10px 10px rgb(109, 107, 107);
+border-radius: 20px;
+padding-top: 30px;
+}
+ #result{
+    width: 250px;
+    border: .5px solid black;
+    height: 40px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 15px rgb(0, 0, 0), inset 5px 5px 5px rgb(109, 107, 107);
+    text-align: right;
+    font-size: 2em;
+    font-stretch: condensed;
+    padding-right: 10px;
+ }
+
+div{
+    
+    
+}
+button{
+    border: .5px solid black;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50px;
+    box-shadow: 5px 5px 15px rgb(0, 0, 0), inset 5px 5px 5px rgb(109, 107, 107);
+    font-size: 2.5em;
+    margin: 10px;
+    margin-top: 10px;
+    padding: 10px;
+}
